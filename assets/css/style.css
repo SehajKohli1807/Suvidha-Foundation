@@ -103,13 +103,13 @@ body {
     text-align: center;
     font-weight: 600;
     margin-bottom: 4px; 
-    font-size: 2.5rem;}
+    font-size: 2.1rem;}
   .session-title p {
     max-width: 850px;
     text-align: center;
     float: none;
     margin: auto;
-    font-size: 1.3rem;
+    font-size: .9rem;
     margin-top: 8px; }
   .session-title span {
     float: right;
@@ -266,7 +266,7 @@ header {
       float: left;
       padding: 12px;
       color: #686968;
-      font-size: 1.6rem; }
+      font-size: 1.2rem; }
       header .header-top .col-det .ulleft li i {
         margin-right: 5px;
         color: #bfbfbf; }
@@ -278,14 +278,14 @@ header {
         float: left;
         padding: 10px;
         color: #d3d7ce;
-        font-size: 1.6rem;
+        font-size: 1.2rem;
         font-weight: 700; }
         header .header-top .col-det .ulright li i {
           margin-right: 5px;
           color: #8c8a8a; }
         header .header-top .col-det .ulright li small {
           color: #8c8a8a;
-          font-size: 1.7rem;
+          font-size: 1.3rem;
           font-weight: 700; }
         header .header-top .col-det .ulright li span {
           margin-left: 15px; }
@@ -316,7 +316,7 @@ header {
     header .nav-col .navbad li {
       padding: 15px 15px;
       font-weight: 700;
-      font-size: 1.8rem;
+      font-size: 1.4rem;
       float: left; }
       @media screen and (max-width: 1005px) {
         header .nav-col .navbad li {
@@ -339,7 +339,7 @@ header {
   header .small-menu {
     float: right;
     color: #686968;
-    font-size: 1.7rem;
+    font-size: 1.3rem;
     position: absolute;
     right: 13px;
     top: 19px; }
@@ -495,7 +495,7 @@ header {
     margin-top: 20px; }
   .about-us .text-part h2 {
     font-weight: 600;
-    font-size: 2.7rem;
+    font-size: 2.1rem;
     margin-bottom: 20px; }
   .about-us .text-part p {
     text-indent: 20px;
@@ -503,7 +503,7 @@ header {
     line-height: 39px;
     font-weight: 500;
     text-align: justify;
-    font-size: 1.7rem; }
+    font-size: 1.3rem; }
   .about-us .image-part .about-quick-box .about-qcard {
     padding: 50px 30px;
     background-color: #FFF;
@@ -513,7 +513,7 @@ header {
     margin-bottom: 30px; }
     .about-us .image-part .about-quick-box .about-qcard p {
       font-weight: 600;
-      font-size: 1.2rem; }
+      font-size: 0.9rem; }
     .about-us .image-part .about-quick-box .about-qcard i {
       font-size: 3rem;
       margin-bottom: 30px;
@@ -543,7 +543,7 @@ header {
   margin-bottom: 20px; }
 
 .events .event-ro .event-box h4 {
-  font-size: 1.8rem; }
+  font-size: 1.4rem; }
 
 .events .event-ro .event-box .raises {
   margin-bottom: 10px; }
@@ -552,7 +552,7 @@ header {
   color: #71b61b; }
 
 .events .event-ro .event-box .desic {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   text-align: center;
   padding: 8px;
   margin-bottom: 15px; }
@@ -575,7 +575,7 @@ header {
 
     .mission-vision .text-part h2 {
       font-weight: 600;
-      font-size: 2.7rem;
+      font-size: 2.1rem;
       margin-bottom: 20px; }
     .mission-vision .text-part p {
       text-indent: 20px;
@@ -583,7 +583,7 @@ header {
       line-height: 39px;
       font-weight: 500;
       text-align: justify;
-      font-size: 1.7rem; }
+      font-size: 1.3rem; }
 
 /* ===================================== Charity Number CSS ================================== */
 .doctor-message {
@@ -604,11 +604,11 @@ header {
 .doctor-message .inner-lay .numb {
   text-align: center;
   padding: 30px;
-  font-size: 2.3rem;
+  font-size: 1.9rem;
  }
 
 .doctor-message .inner-lay .numb h3 {
-  font-size: 2.3rem;
+  font-size: 1.9rem;
   padding-bottom: 10px;
   border-bottom: 1px solid #CCC;
   margin-bottom: 20px;
@@ -642,7 +642,7 @@ header {
   font-size: 12px; }
 
 .our-blog .single-blog h4 {
-  font-size: 1.2rem;
+  font-size: .9rem;
   margin-bottom: 10px;
   margin-top: 10px; }
 
@@ -661,7 +661,7 @@ header {
 
   .testimonials .text-part h2 {
     font-weight: 600;
-    font-size: 2.7rem;
+    font-size: 2.1rem;
     margin-bottom: 20px; }
   .testimonials .text-part p {
     text-indent: 20px;
@@ -669,7 +669,7 @@ header {
     line-height: 39px;
     font-weight: 500;
     text-align: justify;
-    font-size: 1.7rem;  }
+    font-size: 1.3rem;  }
 
 /* ===================================== Fooer CSS ================================== */
 .footer {
@@ -685,18 +685,18 @@ header {
   font-size: 26px;
   margin-top: 10px;
   color: #FFF;
-  font-size: 2.7rem;
+  font-size: 2.1rem;
   margin-bottom: 15px; }
 
 .footer p {
   text-align: justify;
   text-indent: 20px;
-  font-size: 1.5rem; }
+  font-size: 1.3rem; }
 
 .footer .link-list li {
   padding: 10px;
   border-bottom: 1px solid #6C6C6C;
-  font-size: 1.5rem; }
+  font-size: 1.3rem; }
 
 .footer .link-list li a {
   color: #FFF;
