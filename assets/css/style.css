@@ -235,7 +235,7 @@ body {
     border-color: #CCC; }
 
 .container {
-  max-width: 2100px; }
+  max-width: 2000px; }
   @media screen and (max-width: 575px) {
     .container {
       padding: 10px 15px; } }
