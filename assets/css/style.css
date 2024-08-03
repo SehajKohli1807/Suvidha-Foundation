@@ -859,3 +859,39 @@ header {
   margin-bottom: 30px; }
 
 /*# sourceMappingURL=style.css.map */
+
+
+.no-js .owl-carousel, .owl-carousel.owl-loaded {
+  display: block;
+}
+
+.owl-carousel {
+  display: none;
+  width: 100%;
+  z-index: 1;
+}
+
+
+
+.owl-carousel .owl-item {
+  min-height: 1px;
+  float: left;
+  -webkit-backface-visibility: hidden;
+  -webkit-touch-callout: none;}
+
+  .item.test-img img {
+    height: 480px;
+    width: auto;
+    border-radius: 10px;}
+
+    owl-carousel .owl-item img {
+      display: block;
+      width: 100%;
+  }
+
+  img {
+    vertical-align: middle;
+    border-style: none;
+}
+
+head, body{background-color: lightcyan}.card{cursor: pointer}.hd{font-size: 25px;font-weight: 550}.card.hover, .card:hover{box-shadow: 0 20px 40px rgba(0, 0, 0, .2)}.img{margin-bottom: 35px;-webkit-filter: drop-shadow(5px 5px 5px #222);filter: drop-shadow(5px 5px 5px #222)}.card-title{font-weight: 600}button.focus, button:focus{outline: 0;box-shadow: none !important}.ft{margin-top: 25px}.chk{margin-bottom: 5px}.rck{margin-top: 20px;padding-bottom: 15px}
