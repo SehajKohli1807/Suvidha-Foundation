@@ -362,7 +362,7 @@ header {
 
 .slider-captions {
   position: absolute;
-  bottom: 780px;
+  bottom: 280px;
   text-align: center; }
 
 @media screen and (max-width: 1050px) {
@@ -384,7 +384,7 @@ header {
   .slider-captions {
     display: none; } }
 .slider-title {
-  font-size:110px;
+  font-size:80px;
   font-weight: 600;
   color: #fff;
   letter-spacing: -3px; }
