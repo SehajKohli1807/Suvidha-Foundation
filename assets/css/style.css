@@ -588,12 +588,14 @@ header {
 .doctor-message {
   background-image: url("../images/slider/slider-2.jpg");
   background-attachment: fixed;
-  background-size: cover; }
+  background-size: cover; 
+opacity: 0.8;}
   .doctor-message .session-title h2 {
     color: #FFF; }
 
 .doctor-message .inner-lay {
-  background-color: rgba(0, 0, 0, 0.8);
+  /* background-color: rgba(0, 0, 0, 0.8); */
+  background: rgb(0 0 0 / 63%);
   padding: 50px;
   color: #FFF; }
 
